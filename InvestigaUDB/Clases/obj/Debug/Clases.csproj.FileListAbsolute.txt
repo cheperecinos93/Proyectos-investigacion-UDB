@@ -1,0 +1,5 @@
+C:\Users\rodri\Desktop\PROYECTO ASP.NET\InvestigaUDB\Clases\bin\Debug\Clases.dll
+C:\Users\rodri\Desktop\PROYECTO ASP.NET\InvestigaUDB\Clases\bin\Debug\Clases.pdb
+C:\Users\rodri\Desktop\PROYECTO ASP.NET\InvestigaUDB\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\rodri\Desktop\PROYECTO ASP.NET\InvestigaUDB\Clases\obj\Debug\Clases.dll
+C:\Users\rodri\Desktop\PROYECTO ASP.NET\InvestigaUDB\Clases\obj\Debug\Clases.pdb
